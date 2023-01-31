@@ -1,2 +1,2 @@
 # review
-There is some code examples for different tasks.
+Здесь будут примеры кода и проектов для различных задач.
